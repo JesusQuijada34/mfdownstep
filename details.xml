@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <app>
-  <publisher>Influent</publisher>
+  <publisher>influent</publisher>
   <app>mfdownstep</app>
   <name>Universal Downloader</name>
-  <version>v1.0-26.08-21.56-AlphaCube</version>
-  <correlationid>09068b5c403b253ec7af0f3a82c609d91cbe557ba48816eca88606c804e3af98</correlationid>
+  <version>v1.0-26.08-21.56</version>
+  <correlationid>190587a4b6a5463b63b77d20a023224d27894fde02cd05de427f95c2294af170</correlationid>
   <rate>Todas las edades</rate>
-  <author>Unknown</author>
+  <author>JesusQuijada34</author>
   <platform>AlphaCube</platform>
   <description>Estructura reparada por MoonFix</description>
   <year>2026</year>
